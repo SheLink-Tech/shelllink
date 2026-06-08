@@ -8,13 +8,13 @@
 [![Status](https://img.shields.io/badge/状态-开发中-orange.svg)](https://github.com/shelink-cn/shelllink)
 [![预约人数](https://img.shields.io/badge/已预约-0人-brightgreen.svg)](#)
 [![支持架构](https://img.shields.io/badge/架构-ARM32%20%7C%20ARM64%20%7C%20MIPS%20%7C%20x86-brightgreen.svg)](#)
-[![预约群](https://img.shields.io/badge/QQ群-你的QQ群号-blue.svg)](#)
+[![预约群](https://img.shields.io/badge/微信-31427227-blue.svg)](#)
 
 ---
 
 ## ⚠️ 重要说明
 
-本项目正在开发中，预计2026年8月15日正式上线MVP。
+本项目正在开发中，预计2026年9月15日正式上线MVP。
 创建此仓库只为提前调研真实需求，收集种子用户。**现在预约完全免费，无任何义务。**
 
 ---
