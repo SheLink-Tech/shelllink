@@ -1,4 +1,4 @@
-# ShellLink | OEM设备纯TCP远程通信平台
+# ShellLink | OEM设备远程通信平台
 **专为工业嵌入式设备设计，比frp好用，比花生壳便宜25倍**
 
 ---
